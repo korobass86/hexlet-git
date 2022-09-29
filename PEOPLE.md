@@ -1,1 +1,2 @@
 Haskell Curry
+Dima Korobov
